@@ -1,4 +1,4 @@
-# yell-scraper
+# PhantomJs based scraper for scraping yell.com
 
 <h2>Prerequisites</h2>
 
